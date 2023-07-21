@@ -1,0 +1,9 @@
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\bin\Debug\WinFrmApp_TicTacToe.exe.config
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\bin\Debug\WinFrmApp_TicTacToe.exe
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\bin\Debug\WinFrmApp_TicTacToe.pdb
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\obj\Debug\WinFrmApp_TicTacToe.csprojResolveAssemblyReference.cache
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\obj\Debug\WinFrmApp_TicTacToe.Form1.resources
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\obj\Debug\WinFrmApp_TicTacToe.Properties.Resources.resources
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\obj\Debug\WinFrmApp_TicTacToe.csproj.GenerateResource.Cache
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\obj\Debug\WinFrmApp_TicTacToe.exe
+D:\Programming\C# & C++\WinFrmApp_TicTacToe\WinFrmApp_TicTacToe\obj\Debug\WinFrmApp_TicTacToe.pdb
